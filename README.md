@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on DevOps, and SysAdmin.
+🔭 I’m currently working on DevOps, and SysAdmin.
 
 ### Certifications
 
